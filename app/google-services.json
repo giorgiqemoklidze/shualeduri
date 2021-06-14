@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912063045660",
+    "project_id": "memenator-803d8",
+    "storage_bucket": "memenator-803d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912063045660:android:35c5d8136d83b3dc617fd9",
+        "android_client_info": {
+          "package_name": "com.example.memenator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912063045660-s3qtm6t9avl5hart6u4nuq368ag65ctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD14bDFCs08hr8UM4hiyd7EXf9ddc3muFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912063045660-s3qtm6t9avl5hart6u4nuq368ag65ctu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
